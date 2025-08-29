@@ -1,0 +1,3 @@
+This is a prototype in python using Qt to animate Roller Coaster Tycoon 2 sprites "on top" of your screen! You can´t escape the invasion, no matter what tab you switch to!
+
+I got the idea and I wanted to see how fast I could vibecode a working prototype with Claude + ChatGPT. Obviously it is spaghetti code but it was a fun exercise nonetheless. Hopefully I will at some point get around to making a proper (probably C++) version myself with more features. Used https://github.com/KolijnWolfaardt/RCT_tools/tree/master to extract sprites. Requires the g1.dat file from RCT2. For music I used an .mp3 file download of https://www.youtube.com/watch?v=-tpLgBprqLI
